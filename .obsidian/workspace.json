@@ -11,13 +11,148 @@
             "id": "f7eafb38fbbb141b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HTML/什麼是 HTML 語意化？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "什麼是 HTML 語意化？"
+            }
+          },
+          {
+            "id": "98190514601be42a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/script應該放在 HTML 的什麼位置？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "script應該放在 HTML 的什麼位置？"
+            }
+          },
+          {
+            "id": "f07836d423e99262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/如何在 HTML 中插入 CSS 樣式？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "如何在 HTML 中插入 CSS 樣式？"
+            }
+          },
+          {
+            "id": "ba7fb31d946d55f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/如何在 HTML 中插入 CSS 樣式？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "如何在 HTML 中插入 CSS 樣式？"
+            }
+          },
+          {
+            "id": "9489748894eb34f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/1.HTML.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.HTML"
+            }
+          },
+          {
+            "id": "98250eec76997dad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/async 範本.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "async 範本"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -109,11 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTML/async 範本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "async 範本 的對外連結"
             }
           },
           {
@@ -155,6 +291,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -165,51 +302,19 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "floating": {
-    "id": "70793c86f650ef66",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ba876380c46de1b3",
-        "type": "window",
-        "children": [
-          {
-            "id": "264e00ef0d7a1b1a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dd600485a02fcc28",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://obsidian.md/zh/",
-                    "title": "Obsidian - 磨砺你的思维",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Obsidian - 磨砺你的思维"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 171,
-        "y": 0,
-        "width": 1024,
-        "height": 727,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f7eafb38fbbb141b",
+  "active": "98250eec76997dad",
   "lastOpenFiles": [
-    "HTML/script應該放在 HTML 的什麼位置？.md",
-    "HTML/link應該放在 html 文件的什麼位置？.md",
-    "HTML/如何在 HTML 中插入 CSS 樣式？優先順序是什麼？.md",
+    "HTML/async 與 defer 有什麼不同？.md",
+    "HTML/如何在 HTML 中插入 CSS 樣式？.md",
     "HTML/什麼是 HTML 語意化？.md",
+    "HTML/1.HTML.md",
+    "HTML/script應該放在 HTML 的什麼位置？.md",
+    "HTML/script標籤 的 async 與 defer 有什麼不同？.md",
+    "HTML/link應該放在 html 文件的什麼位置？.md",
+    "HTML/defer 範本.md",
+    "HTML/async 範本.md",
+    "README.md",
+    "CSS/CSS 樣式優先順序.md",
     "HTML/1.HTML 問題集.md",
     "CSS",
     "HTML/quasar使用方法.md",
