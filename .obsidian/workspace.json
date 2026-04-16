@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/資料型別/Symbol.md",
+                "file": "Vue/Vue 3 核心機制與生命週期.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Symbol"
+              "title": "Vue 3 核心機制與生命週期"
             }
           },
           {
@@ -147,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/資料型別/Symbol.md",
+                "file": "Vue/Vue 3 核心機制與生命週期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Symbol 的對外連結"
+              "title": "Vue 3 核心機制與生命週期 的對外連結"
             }
           },
           {
@@ -207,8 +207,14 @@
   },
   "active": "8c33f78552916a53",
   "lastOpenFiles": [
-    "JavaScript/資料型別/String (字串).md",
+    "Vue/Vue.md",
+    "Vue/Vue 3 核心機制與生命週期.md",
+    "前端架構.md",
+    "Vue",
+    "HTML/1. HTML.md",
+    "CSS/CSS 中有哪些單位.md",
     "JavaScript/資料型別/Symbol.md",
+    "JavaScript/資料型別/String (字串).md",
     "JavaScript/JavaScript 資料型別 (data types).md",
     "JavaScript/資料型別/Undefined.md",
     "JavaScript/在 JavaScript ==、=== 與 Object.is()的區別.md",
@@ -219,13 +225,10 @@
     "JavaScript/資料型別/BigInt.md",
     "HTML/什麼是 HTML 語意化？.md",
     "JavaScript/資料型別",
-    "前端架構.md",
     "CSS/2. CSS.md",
-    "HTML/1. HTML.md",
     "2. CSS.md",
     "1. HTML.md",
     "JavaScript",
-    "CSS/CSS 中有哪些單位.md",
     "CSS/CSS 選擇器的優先級.md",
     "CSS/CSS 樣式優先順序.md",
     "CSS/CSS 盒模型 (Box Model).md",
@@ -237,8 +240,6 @@
     "HTML/async 與 defer 有什麼不同？.md",
     "HTML/如何在 HTML 中插入 CSS 樣式？.md",
     "HTML/script應該放在 HTML 的什麼位置？.md",
-    "HTML/script標籤 的 async 與 defer 有什麼不同？.md",
-    "HTML/link應該放在 html 文件的什麼位置？.md",
     "CSS",
     "HTML",
     "未命名.base"
