@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "3de26b3ae2861dc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccec47b6011547d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7eafb38fbbb141b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0184c8c6ba17b7bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "35ffca00e36caebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c8785efc6c304f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "3f216b52fe875e2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#如何使用Obsidian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "aec4d8e9aa5e512b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2845d7461e41a825",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2fd218f3133e0ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295d6dd896e3dd77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "練習連結用筆記.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "練習連結用筆記 的反向連結"
+            }
+          },
+          {
+            "id": "e8e82ca642311551",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "6ed0362b0ba2dc30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "63b7185d503a0a4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "練習連結用筆記.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "練習連結用筆記 的大綱"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false,
+      "workspaces:管理工作區配置": false
+    }
+  },
+  "floating": {
+    "id": "70793c86f650ef66",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ba876380c46de1b3",
+        "type": "window",
+        "children": [
+          {
+            "id": "264e00ef0d7a1b1a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd600485a02fcc28",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://obsidian.md/zh/",
+                    "title": "Obsidian - 磨砺你的思维",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Obsidian - 磨砺你的思维"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 171,
+        "y": 0,
+        "width": 1024,
+        "height": 727,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f7eafb38fbbb141b",
+  "lastOpenFiles": [
+    "HTML/script應該放在 HTML 的什麼位置？.md",
+    "HTML/link應該放在 html 文件的什麼位置？.md",
+    "HTML/如何在 HTML 中插入 CSS 樣式？優先順序是什麼？.md",
+    "HTML/什麼是 HTML 語意化？.md",
+    "HTML/1.HTML 問題集.md",
+    "CSS",
+    "HTML/quasar使用方法.md",
+    "HTML",
+    "如何使用 Obsidian.md",
+    "練習連結用筆記.md",
+    "homebrew.md",
+    "2025-10-17.md",
+    "未命名.base",
+    "建立鏈接.md"
+  ]
+}

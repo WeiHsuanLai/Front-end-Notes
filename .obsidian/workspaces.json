@@ -1,0 +1,196 @@
+{
+  "workspaces": {
+    "demo": {
+      "main": {
+        "id": "3de26b3ae2861dc9",
+        "type": "split",
+        "children": [
+          {
+            "id": "fee2a16bda6e6059",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f2d6963ca9ad7fc3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "quasar使用方法.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "quasar使用方法"
+                }
+              },
+              {
+                "id": "7656cbc1aa632fe7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2025-10-17.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-10-17"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0184c8c6ba17b7bd",
+        "type": "split",
+        "children": [
+          {
+            "id": "35ffca00e36caebc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2c8785efc6c304f2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "檔案瀏覽器"
+                }
+              },
+              {
+                "id": "3f216b52fe875e2d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜尋"
+                }
+              },
+              {
+                "id": "aec4d8e9aa5e512b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "書籤"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "2845d7461e41a825",
+        "type": "split",
+        "children": [
+          {
+            "id": "c2fd218f3133e0ea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "295d6dd896e3dd77",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "quasar使用方法.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "quasar使用方法 的反向連結"
+                }
+              },
+              {
+                "id": "e8e82ca642311551",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "歡迎.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "歡迎 的對外連結"
+                }
+              },
+              {
+                "id": "6ed0362b0ba2dc30",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "標籤"
+                }
+              },
+              {
+                "id": "63b7185d503a0a4a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "2025-10-17.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "2025-10-17 的大綱"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 504.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:開啟快速切換": false,
+          "graph:查看關聯圖": false,
+          "canvas:建立新畫布": false,
+          "daily-notes:開啟今天的每日筆記": false,
+          "templates:插入模板": false,
+          "command-palette:開啟命令面板": false,
+          "bases:建立新的 base": false,
+          "workspaces:管理工作區配置": false
+        }
+      },
+      "active": "7656cbc1aa632fe7",
+      "mtime": "2025-10-17T16:55:10+08:00"
+    }
+  },
+  "active": "demo"
+}
