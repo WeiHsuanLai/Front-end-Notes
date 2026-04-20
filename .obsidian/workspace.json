@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Vue 3 核心機制與生命週期.md",
+                "file": "Vue/網頁渲染模式（Rendering Patterns.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vue 3 核心機制與生命週期"
-            }
-          },
-          {
-            "id": "45722716f46d1018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/資料型別/String (字串).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "String (字串)"
+              "title": "網頁渲染模式（Rendering Patterns"
             }
           }
         ]
@@ -147,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/Vue 3 核心機制與生命週期.md",
+                "file": "Vue/網頁渲染模式（Rendering Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Vue 3 核心機制與生命週期 的對外連結"
+              "title": "網頁渲染模式（Rendering Patterns 的對外連結"
             }
           },
           {
@@ -207,18 +183,22 @@
   },
   "active": "8c33f78552916a53",
   "lastOpenFiles": [
-    "Vue/Vue.md",
-    "Vue/Vue 3 核心機制與生命週期.md",
     "前端架構.md",
+    "Vue/4.Vue.md",
+    "AXIOS",
+    "JavaScript/3. JavaScript.md",
+    "JavaScript/JavaScript 資料型別 (data types).md",
+    "JavaScript/在 JavaScript ==、=== 與 Object.is()的區別.md",
+    "Vue/Nuxt.md",
+    "Vue/Vue 3 核心機制與生命週期.md",
+    "Vue/網頁渲染模式（Rendering Patterns.md",
+    "SSR.md",
+    "JavaScript/資料型別/String (字串).md",
     "Vue",
     "HTML/1. HTML.md",
     "CSS/CSS 中有哪些單位.md",
     "JavaScript/資料型別/Symbol.md",
-    "JavaScript/資料型別/String (字串).md",
-    "JavaScript/JavaScript 資料型別 (data types).md",
     "JavaScript/資料型別/Undefined.md",
-    "JavaScript/在 JavaScript ==、=== 與 Object.is()的區別.md",
-    "JavaScript/3. JavaScript.md",
     "JavaScript/資料型別/Null.md",
     "JavaScript/資料型別/Number.md",
     "JavaScript/資料型別/Boolean (布林值).md",
@@ -236,10 +216,6 @@
     "CSS/CSS-image",
     "CSS/CSS-image/Pasted image 20260416102836.png",
     "Pasted image 20260416102800.png",
-    "HTML/async 範本.md",
-    "HTML/async 與 defer 有什麼不同？.md",
-    "HTML/如何在 HTML 中插入 CSS 樣式？.md",
-    "HTML/script應該放在 HTML 的什麼位置？.md",
     "CSS",
     "HTML",
     "未命名.base"
