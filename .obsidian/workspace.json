@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/網頁渲染模式（Rendering Patterns.md",
+                "file": "Vue/Vue 3 核心機制與生命週期.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "網頁渲染模式（Rendering Patterns"
+              "title": "Vue 3 核心機制與生命週期"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/網頁渲染模式（Rendering Patterns.md",
+                "file": "Vue/Vue 3 核心機制與生命週期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "網頁渲染模式（Rendering Patterns 的對外連結"
+              "title": "Vue 3 核心機制與生命週期 的對外連結"
             }
           },
           {
@@ -183,15 +183,15 @@
   },
   "active": "8c33f78552916a53",
   "lastOpenFiles": [
-    "前端架構.md",
     "Vue/4.Vue.md",
+    "Vue/網頁渲染模式（Rendering Patterns.md",
+    "前端架構.md",
     "AXIOS",
     "JavaScript/3. JavaScript.md",
     "JavaScript/JavaScript 資料型別 (data types).md",
     "JavaScript/在 JavaScript ==、=== 與 Object.is()的區別.md",
     "Vue/Nuxt.md",
     "Vue/Vue 3 核心機制與生命週期.md",
-    "Vue/網頁渲染模式（Rendering Patterns.md",
     "SSR.md",
     "JavaScript/資料型別/String (字串).md",
     "Vue",
