@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c33f78552916a53",
+            "id": "909a3f1f636cb19f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Vue 3 核心機制與生命週期.md",
+                "file": "Vue/4.Vue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vue 3 核心機制與生命週期"
+              "title": "4.Vue"
+            }
+          },
+          {
+            "id": "66c2656920324f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/Nitro 是什麼？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nitro 是什麼？"
             }
           }
         ]
@@ -123,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/Vue 3 核心機制與生命週期.md",
+                "file": "Vue/4.Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Vue 3 核心機制與生命週期 的對外連結"
+              "title": "4.Vue 的對外連結"
             }
           },
           {
@@ -181,38 +205,39 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "8c33f78552916a53",
+  "active": "909a3f1f636cb19f",
   "lastOpenFiles": [
+    "Vue/Vite 是什麼？.md",
     "Vue/4.Vue.md",
-    "Vue/網頁渲染模式（Rendering Patterns.md",
-    "前端架構.md",
-    "AXIOS",
+    "Vue/Nitro 是什麼？.md",
+    "Vue/Nuxt.md",
+    "Vue/Nuxt UI.md",
+    "Vue/Nuxt DevTools.md",
     "JavaScript/3. JavaScript.md",
+    "Vue/v-for.md",
+    "Vue/v-if 與 v-show.md",
+    "CSS/CSS-image/Pasted image 20260416102755.png",
+    "CSS/2. CSS.md",
+    "JavaScript/JavaScript 的三種作用域.md",
     "JavaScript/JavaScript 資料型別 (data types).md",
     "JavaScript/在 JavaScript ==、=== 與 Object.is()的區別.md",
-    "Vue/Nuxt.md",
-    "Vue/Vue 3 核心機制與生命週期.md",
-    "SSR.md",
-    "JavaScript/資料型別/String (字串).md",
-    "Vue",
+    "Vue/v-bind和v-model.md",
     "HTML/1. HTML.md",
-    "CSS/CSS 中有哪些單位.md",
-    "JavaScript/資料型別/Symbol.md",
-    "JavaScript/資料型別/Undefined.md",
-    "JavaScript/資料型別/Null.md",
-    "JavaScript/資料型別/Number.md",
-    "JavaScript/資料型別/Boolean (布林值).md",
-    "JavaScript/資料型別/BigInt.md",
-    "HTML/什麼是 HTML 語意化？.md",
-    "JavaScript/資料型別",
-    "CSS/2. CSS.md",
-    "2. CSS.md",
-    "1. HTML.md",
-    "JavaScript",
+    "HTML/p、div 、span差別.md",
+    "Vue/new Vue() 發生了什麼.md",
+    "Vue/vue3為什麼不需要時間分片？.md",
+    "Vue/網頁渲染模式（Rendering Patterns.md",
+    "Vue/diff.md",
+    "Vue/Vue 3 核心機制與生命週期.md",
+    "Vue/Vue 有了資料響應式，為何還要 diff？.md",
     "CSS/CSS 選擇器的優先級.md",
     "CSS/CSS 樣式優先順序.md",
     "CSS/CSS 盒模型 (Box Model).md",
-    "CSS/CSS-image/Pasted image 20260416102755.png",
+    "CSS/CSS 中有哪些單位.md",
+    "AXIOS",
+    "Vue",
+    "JavaScript/資料型別",
+    "JavaScript",
     "CSS/CSS-image",
     "CSS/CSS-image/Pasted image 20260416102836.png",
     "Pasted image 20260416102800.png",

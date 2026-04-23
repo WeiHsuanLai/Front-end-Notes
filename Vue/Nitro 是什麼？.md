@@ -1,0 +1,2 @@
+- Nitro 是 Nuxt 內建的**輕量級伺服器引擎**。
+- 負責處理 SSR、API routes、中介層邏輯（middleware）等後端功能。

@@ -1,0 +1,3 @@
+- Nuxt 採用 Vite 作為**前端建構工具與開發伺服器**。
+- 負責處理 `.vue` 檔案、JavaScript或TypeScript編譯與 CSS 打包。
+- 架構輕量、啟動速度快，支援快速的熱模組更新（HMR, Hot Module Replacement），非常適合需要頻繁調整畫面的前端開發。
